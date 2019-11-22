@@ -1,2 +1,7 @@
 # mining_cv_data
-Demo'ing extraction of skill and location data from CV's
+
+
+Demonstrates a text mining approach to creating useable location and "skill keyword"
+variables from unstructured data.
+
+As an aside, the data's actually pretty structured!  If I were serious I'd use that!
